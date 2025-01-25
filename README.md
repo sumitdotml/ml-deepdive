@@ -1,9 +1,11 @@
-# ML Deepdive: A Project-Based ML Learning
+# ML Deepdive: Project-Based ML Learning
 
 Currently prioritizing deep learning architecture design, optimization, and ML systems. Planning to also cover RL in the near future.
 
 > [!NOTE]
 > This is just a rough idea for now. I may end up modifying compartments of these pipelines at any point depending on my pace of learning, focus, and so on But for now, this is what I'm thinking.
+>
+> Basically, the only thing that is certain from here is the barebones network project. The others... not so certain. Just like how life goes.
 
 There are 4 core pipelines here.
 
