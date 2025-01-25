@@ -9,6 +9,8 @@ Currently prioritizing deep learning architecture design, optimization, and ML s
 
 There are 4 core pipelines here.
 
+---
+
 ## Pipeline 1: Neural Network Fundamentals & Optimization
 
 **Theme**: Math-driven NN design, PyTorch fluency, and optimization intuition.
