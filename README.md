@@ -17,9 +17,13 @@ There are 4 core pipelines here.
 
 ### Projects:
 
-#### 1. The Barebones Network
+#### 1. Autograd engine
 
-- **Task**: Implement a fully connected network from scratch in PyTorch (no nn.Module), training on MNIST.
+[Project repo](https://github.com/sumitdotml/autograd) _*(in progress)_
+
+#### 2. The Barebones Network
+
+- **Task**: Implement a fully connected network from scratch in PyTorch (no nn.Module).
 
 - **Focus**:
     - Raw tensor operations + autograd.
@@ -30,7 +34,7 @@ There are 4 core pipelines here.
 
 #
 
-#### 2. Optimizer Olympics
+#### 3. Optimizer Olympics
 
 - **Task**: Train the same model (e.g., ResNet-18 on CIFAR-10) with SGD, Adam, RMSProp, and a custom optimizer.
 
@@ -42,7 +46,7 @@ There are 4 core pipelines here.
 
 #
 
-#### 3. Architecture Surgery
+#### 4. Architecture Surgery
 
 - **Task**: Modify a CNN (e.g., VGG) by:
     - Adding/removing skip connections (ResNet-style).
