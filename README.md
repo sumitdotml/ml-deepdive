@@ -19,9 +19,19 @@ There are 4 core pipelines here.
 
 #### 1. Autograd engine
 
-[Project repo](https://github.com/sumitdotml/autograd) _*(in progress)_
+[Project repo](https://github.com/sumitdotml/chibigrad)
+
+> [!IMPORTANT]
+> STATUS: __COMPLETE__
+
+#
 
 #### 2. The Barebones Network
+
+[Project repo](https://github.com/sumitdotml/chibinetwork)
+
+> [!IMPORTANT]
+> STATUS: NOT STARTED
 
 - **Task**: Implement a fully connected network from scratch in PyTorch (no nn.Module).
 
